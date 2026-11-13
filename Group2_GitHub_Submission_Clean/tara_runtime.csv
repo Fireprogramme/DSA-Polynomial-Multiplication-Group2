@@ -1,0 +1,21 @@
+input_size,algorithm,best_runtime_seconds,peak_traced_memory_mib,repetitions
+16,V1 Schoolbook,0.000231,0.0014,2
+16,V2 Four-way,0.000703,0.0041,2
+16,V3 Karatsuba,0.000183,0.0017,2
+16,V4 Recursive FFT,0.001565,0.0065,2
+16,V5 Iterative FFT,0.000686,0.0052,2
+64,V1 Schoolbook,0.002961,0.0051,2
+64,V2 Four-way,0.013121,0.017,2
+64,V3 Karatsuba,0.00282,0.0164,2
+64,V4 Recursive FFT,0.006981,0.0255,2
+64,V5 Iterative FFT,0.003503,0.0206,2
+256,V1 Schoolbook,0.060148,0.0198,2
+256,V2 Four-way,0.208455,0.0691,2
+256,V3 Karatsuba,0.024756,0.0663,2
+256,V4 Recursive FFT,0.038126,0.102,2
+256,V5 Iterative FFT,0.025952,0.0823,2
+1024,V1 Schoolbook,1.43556,0.0784,1
+1024,V2 Four-way,3.537981,0.2796,1
+1024,V3 Karatsuba,0.268705,0.2661,1
+1024,V4 Recursive FFT,0.190641,0.4116,1
+1024,V5 Iterative FFT,0.182978,0.3317,1
