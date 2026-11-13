@@ -1,0 +1,7 @@
+coefficient_magnitude,algorithm,incorrect_coefficients,maximum_absolute_error
+1000000,V4 Recursive FFT,0,0
+1000000,V5 Iterative FFT,3492,4
+10000000,V4 Recursive FFT,3753,3
+10000000,V5 Iterative FFT,8121,345
+100000000,V4 Recursive FFT,8132,274
+100000000,V5 Iterative FFT,8191,36822
